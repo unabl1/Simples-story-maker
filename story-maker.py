@@ -4,7 +4,7 @@ import sys
 
 def meeting():
     print(
-        "Hello my friend. Today it is I, who will help you create your own New Year's story. \n"
+        "Today it is I, who will help you create your own New Year's story. \n"
         "In order to get started we need to get to know you \n"
         "Me name is Egor. what's your name?")
 
