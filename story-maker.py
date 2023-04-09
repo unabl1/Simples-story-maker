@@ -125,3 +125,5 @@ def main():
     print("Hi, everyone. Have fun!")
     meeting()
 
+
+main()
