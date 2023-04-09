@@ -111,7 +111,7 @@ def loading():
 
 def story(main_character, friend_name, place_name, food, color):
     print(f"It was New Year's Eve. {main_character} sat alone at home and was sa"
-          f"d. \nSuddenly a call rang, his friend called him - {friend_name}.\n A friend invited me to cel"
+          f"d. \nSuddenly a call rang, his friend called him - {friend_name}.\nA friend invited me to cel"
           f"ebrate the New Year at the dacha, called {place_name}. \nI was there for the first time, so the roof of the house s"
           f"erved as a reference point {color}. \nI drove into the village, saw the right house, and there are a lot of peopl"
           f"e there, {food} is preparing. \nI went into the yard, got acquainted. When asked where {friend_name} is, it was said that "
